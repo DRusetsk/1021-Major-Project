@@ -1,0 +1,1 @@
+This minor project is based on the Grove Beginner Kit, specifically using the Potentiometer, pushbutton and OLED screen. The objective is to develop an idea for a prototype MIDI player that is capable of playing and recording notes that a user plays. Further details are outlined in the PDF provided
